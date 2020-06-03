@@ -73,3 +73,12 @@ The north star metric has to be found, measured, monitored and used to align the
 Question from a person in the audience with a SaaS project management tool for homeowners and contractors: How can I define my NSM with a product that has difficult to track retention because of the lag between using the product and paying for it? 
 
 Are there a set of "kick the tire" activities that are highly correlated with becoming a paying customer of your product, before they're actually paying for your product? This is found by doing a bunch of number crunching and regression analysis.
+
+References:
+
+[E806: Rachel Hepworth, Slack Head of Growth Marketing: how startups can best "Go to Market and Grow" - This Week in Startups][gm-hepworth]
+
+[E958: Matt Horiuchi, Director of User Acquisition at Calm, breaks down “Growth, Paid Marketing & Attribution” - This Week in Startups][gm-horiuchi]
+
+[gm-hepworth]: https://www.youtube.com/watch?v=gmO4jomGuXI
+[gm-horiuchi]: https://podcasts.apple.com/au/podcast/e958-matt-horiuchi-director-user-acquisition-at-calm/id315114957?i=1000445156448
