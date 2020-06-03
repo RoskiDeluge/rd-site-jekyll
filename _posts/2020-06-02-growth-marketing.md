@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Growth Marketing (a summary)"
+title: "Two Models of Growth Marketing (a summary)"
 date: 2020-06-02
 ---
 
