@@ -31,7 +31,7 @@ These are:
 
 Finding early adopters test:
 
-Who are the people that are trying to solve the problem that your solution is also trying to solve, and can I find them?
+Who are the people that are trying to solve the problem that your solution is also trying to solve, and can you find them?
 
 Use customer interviews to determine how customers describe their problem (marketing copy) and where they go to find solutions (marketing channels).
 
@@ -41,7 +41,7 @@ The customer’s descriptions of the problem will be used as the marketing copy 
 
 Offer test:
 
-Customers are engaging with your offer and you can iterate your marketing outreach.
+Here you find out how prospects are engaging with your offer and how you need to iterate your marketing (copy and channels).
 
 `3. People are willing to pay me for the solution.`
 
