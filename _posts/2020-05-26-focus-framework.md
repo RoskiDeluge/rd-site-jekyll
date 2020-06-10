@@ -9,7 +9,7 @@ Two fundamental principles of the lean method are:
 `1. Declare your victories.`  
 `2. People don’t buy products, people buy solutions to problems.`
 
-So we ask, how can we build a product/service that solves people’s problems? One way is to seek what lean practitioners call product-market fit.
+So how can we build a product/service that solves people’s problems? One way is to seek what lean practitioners call product-market fit.
 
 What is product-market fit?
 
@@ -17,7 +17,7 @@ What is product-market fit?
 
 What satisfies you?
 
-All people live in an attraction/aversion loop. People are passionate about things they are attracted to and are averse to the things that bring discomfort/pain.
+All people live in an attraction/aversion loop. People are passionate about things they are attracted to and averse to the things that bring discomfort/pain.
 
 The passion that is usually attached to a product/service needs to be attached to the declared victories instead. Doing so allows the startup founders to remain uncommitted to a particular product and service if it brings them no closer to achieving their declared victories.
 
